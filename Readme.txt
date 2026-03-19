@@ -198,17 +198,4 @@ PART D — AI-Augmented Task (10%)
     - False positive rate simulation (the most intuitive illustration of
       alpha) was not included by the AI at all
 
-
---------------------------------------------------------------------------------
-HOW TO SUBMIT
---------------------------------------------------------------------------------
-
-1. Push both .ipynb files to your GitHub repository:
-     /week4/day20/W4_D20_AM_PythonOOP.ipynb
-     /week4/day20/W4_D20_PM_NormalDist.ipynb
-
-2. Run all cells before pushing (Runtime → Run all) so outputs are saved.
-
-3. Submit the GitHub link on LMS before 19/03/2026 · 09:15 AM.
-
 ================================================================================
